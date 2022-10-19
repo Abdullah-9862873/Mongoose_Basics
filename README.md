@@ -1,1 +1,3 @@
 # Mongoose_Basics
+
+These are the basics of mongoose in which you will learn how to initialise the mongoose and how to use it with node... 
